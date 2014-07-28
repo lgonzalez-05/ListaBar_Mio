@@ -1,0 +1,49 @@
+{
+    "name": "Proy_BaresDeLaCiudad",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "4.0.4.84",
+            "frameworkVersion": "2.3.1.410"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "iPhone",
+                "builtIn": true,
+                "height": 480,
+                "width": 320
+            },
+            "viewportOrientation": "portrait"
+        },
+        "urlPrefix": "http://localhost:8080/DESARROLLO/Proy_BaresDeLaCiudad/",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true
+    },
+    "xdsVersion": "3.0.4",
+    "xdsBuild": 1386,
+    "schemaVersion": 1,
+    "upgradeVersion": 300000000004,
+    "framework": "touch23",
+    "viewOrderMap": {
+        "view": [
+            "1737f33f-5b87-470d-9ab8-df4ba81254f2",
+            "3893be4a-ba5b-4172-ac95-dbaa7725b057"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "54a13cff-41ae-48e5-873f-a1dc43b9ac91",
+            "142b2cf7-5c1b-43d9-9aeb-f7a77789649a"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
